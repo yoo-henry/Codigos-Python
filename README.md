@@ -1,2 +1,2 @@
 # Códigos em Python
-Códigos das aulas
+Códigos do curso de Python
