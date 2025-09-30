@@ -1,2 +1,2 @@
-# Codigos_Henrique
-Meus códigos das aulas
+# Códigos em Python
+Códigos das aulas
